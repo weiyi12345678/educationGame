@@ -595,7 +595,7 @@ public class GameMatchActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String name = etUploadName.getText().toString();
-                if (name.isEmpty() || name.equals(" ")){
+                if (name.isEmpty() || name.equals(" s")){
                     customDialog.closeDialog();
                     Toast.makeText(getApplicationContext(), "Invalid name", Toast.LENGTH_SHORT).show();
                 } else {
