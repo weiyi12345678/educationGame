@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "941135316568",
+    "firebase_url": "https://educational-app-5b24d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "educational-app-5b24d",
+    "storage_bucket": "educational-app-5b24d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941135316568:android:8ec29ce87e0573b6212c2d",
+        "android_client_info": {
+          "package_name": "com.example.educationgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941135316568-cpmikbec0kc096fsqo9cfj88mnr75ecf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW5--NHN5IoCaMalL_VensXBZeZNMbIGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941135316568-cpmikbec0kc096fsqo9cfj88mnr75ecf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941135316568:android:452dd09f67f943da212c2d",
+        "android_client_info": {
+          "package_name": "com.example.educationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941135316568-kvrhb7088g92n362b57upapqi9ivhk6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.educationapp",
+            "certificate_hash": "798abe4501f1721f84604ff399f136cd27cf6c46"
+          }
+        },
+        {
+          "client_id": "941135316568-cpmikbec0kc096fsqo9cfj88mnr75ecf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW5--NHN5IoCaMalL_VensXBZeZNMbIGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941135316568-cpmikbec0kc096fsqo9cfj88mnr75ecf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Result"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/result_tv_score_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10sp"
+        android:text= "Final Score"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/result_tv_score_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10sp"
+        android:gravity="center"
+        android:text=""
+        />
+
+    <Button
+        android:id="@+id/btnResultUpload"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Upload Score"
+        android:layout_margin="10sp"
+        />
+
+    <Button
+        android:id="@+id/btnResultAgain"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Play Again"
+        android:layout_margin="10sp"
+        />
+
+    <Button
+        android:id="@+id/btnResultBack"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Leave"
+        android:layout_margin="10sp"
+        />
+</LinearLayout>
